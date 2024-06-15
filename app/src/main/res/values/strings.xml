@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">9_SavedInstanceState</string>
+    <string name="activity_1">Simple Activity</string>
+    <string name="activity_2">Bundle Activity</string>
+    <string name="activity_3">Class Activity</string>
+    <string name="activity_4">Parcelable Activity</string>
+    <string name="activity_5">ViewModel Activity</string>
+    <string name="activity_6">ViewModel end Class Activity</string>
+</resources>
